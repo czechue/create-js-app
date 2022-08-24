@@ -1,9 +1,9 @@
 ## Recommendation
 
-This project was created before the advent of the [Parcel](https://parceljs.org) tool. If you need a bundler for small and medium projects - I strongly suggest using Parcel instead. :)
-
-UPDATE 24.08
+**UPDATE 24.08**
 the only rational solution for today is... [Vite](https://vitejs.dev/)
+
+This project was created before the advent of the [Parcel](https://parceljs.org) tool. If you need a bundler for small and medium projects - I strongly suggest using Parcel instead. :)
 
 ## Webpack JS App - webpack 4 (4.29.6) JavaScript boilerplate
 
